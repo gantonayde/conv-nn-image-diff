@@ -12,6 +12,6 @@ For example:
 
 ![Alt](/example/predicted.png "Predicted image of 3")
 
-- real answer:
+- real image:
 
 ![Alt](/example/real.png "Real image of 3")
